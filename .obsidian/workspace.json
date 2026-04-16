@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62cbfedb9c3a4060",
+            "id": "5c777fa94f12e145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-9-2026.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3-9-2026"
-            }
-          },
-          {
-            "id": "e924d85c5eb40972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-23-2026.md",
+                "file": "4-16-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-23-2026"
-            }
-          },
-          {
-            "id": "853ac5bbfbc89b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-30-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3-30-2026"
+              "title": "4-16-2026"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,11 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "853ac5bbfbc89b4c",
+  "active": "5c777fa94f12e145",
   "lastOpenFiles": [
+    "4-13-2026.md",
+    "4-16-2026.md",
+    "3-30-2026.md",
     "pdf versions/3-30-2026.pdf",
     "3-23-2026.md",
-    "3-30-2026.md",
     "pdf versions/3-23-2026.pdf",
     "3-9-2026.md",
     "NSBP running officer meeting notes.pdf",
